@@ -17,4 +17,3 @@ spec:
           image: saipavan0702/python-app:latest
           ports:
             - containerPort: 5000
-          command: ["sleep", "3600"]
